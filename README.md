@@ -1,1 +1,1 @@
-# rust-leetcode
+使用rust練習leetcode
